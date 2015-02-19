@@ -29,7 +29,8 @@ public class Service {
 	}
 	
 	public static void test3() {
-		List<Employee> list = new ArrayList<Employee>();
+		// TOOD: Create list of employee
+		
 		Employee e1 = new Employee();
 		Employee e2 = new Employee();
 		
