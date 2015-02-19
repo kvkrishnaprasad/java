@@ -10,10 +10,10 @@ public class Employee {
 	public String getName() {
 		return name;
 	}
-	// TODO: Add setters and getters
+	// TODO 1a: Add setters and getters
 	
-	// TODO: Add a print function
+	// TODO 1b: Add a print function
 	
 	
-	// TODO 2: Add a constructor that take 2 parameters
+	// TODO 2a: Add a constructor that take 2 parameters
 }
