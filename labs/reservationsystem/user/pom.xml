@@ -9,8 +9,9 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>station</artifactId>
-    <name>station</name>
+    <artifactId>user</artifactId>
+    <name>user</name>
+
 
     <dependencies>
         <dependency>
@@ -18,5 +19,8 @@
             <artifactId>database</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
+
     </dependencies>
+
+
 </project>
